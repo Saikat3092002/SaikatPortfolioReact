@@ -1,0 +1,40 @@
+.about{
+    width: 100%;
+    margin: 3rem 0;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.about .left{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 400px;
+
+}
+.about .left p{
+    margin: 1.2rem 0;
+}
+
+.about .right{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+
+.right img{
+    max-width: 100%;
+    border: 1px solid #eee;
+    height: 50vh;
+    border-radius: 20px;
+    width: 236px;
+}
+@media screen and (max-width:780px){
+    .about{
+        grid-template-columns: 1fr;
+    }
+}
