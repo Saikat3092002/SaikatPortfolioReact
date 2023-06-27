@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SaikatPortfolioReact/static/css/main.105c842e.css",
+    "main.js": "/SaikatPortfolioReact/static/js/main.4b371b63.js",
+    "static/media/snake.jpg": "/SaikatPortfolioReact/static/media/snake.9e9ec1e1386ecc5c563a.jpg",
+    "static/media/saikat.jpg": "/SaikatPortfolioReact/static/media/saikat.3f98e2e9ca8b8143046e.jpg",
+    "static/media/college.jpeg": "/SaikatPortfolioReact/static/media/college.7029e6cb76176295d294.jpeg",
+    "static/media/bike.jpeg": "/SaikatPortfolioReact/static/media/bike.e6ac2ff2b46f3207ee2c.jpeg",
+    "static/media/iot.jpeg": "/SaikatPortfolioReact/static/media/iot.67d1d13de1d96d9d9196.jpeg",
+    "static/media/bg.avif": "/SaikatPortfolioReact/static/media/bg.9fbb69f3f1b2b13eaff8.avif",
+    "static/media/body2.jpg": "/SaikatPortfolioReact/static/media/body2.9872f5f7916ec22d80c2.jpg",
+    "static/media/todo.webp": "/SaikatPortfolioReact/static/media/todo.09d7a39a1fc6df3725a1.webp",
+    "static/media/portfolio.webp": "/SaikatPortfolioReact/static/media/portfolio.30343b520cc6479ae24a.webp",
+    "index.html": "/SaikatPortfolioReact/index.html",
+    "main.105c842e.css.map": "/SaikatPortfolioReact/static/css/main.105c842e.css.map",
+    "main.4b371b63.js.map": "/SaikatPortfolioReact/static/js/main.4b371b63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.105c842e.css",
+    "static/js/main.4b371b63.js"
+  ]
+}
